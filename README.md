@@ -11,9 +11,8 @@ Getting to know the student, Introduction of the course, Game plan.
 
 ### Session outcome:
 
-Lecturet comment;
+Lecturer comment;
 As you might already know, there is no one perfect way of dealing with data, and that data comes in different  shapes, sizes, and formats. So, it very common to get stuck when working with data regardless of experience or skills you might have.
-
 
 In our previous session I was grateful that you had your Power BI already installed on your computer, and I appreciated your familiarity with data concepts and techniques. 
 
@@ -39,13 +38,48 @@ I am very happy with things at present. Thank you once again
 ### Time and Date:
 18th of April 6:00 pm to 8:00
 
-### Topic 
+### Topic:
 Get Data from different data sources.
 
+#### Extra resources
+Embed a video
+links:
+
 ### Goal:
+Experiment and familirise with different data sources and format.
+
+### Session outcome:
+- Lecturer comment
+During the session we were able to experiment with different data source and format like xml, excel, csv, and online data source like facebook. We also encountered common challenges that could arise when collecting data and learned how we could debug different errors. 
+
+We were not able to cover all the data source and more important sources like databases and google.
+
+In the next session we will try to identify some other data sources and see how we could connect to those data sources.
+
+- Student comment
+I would say that I would like to use the Power BI tool a bit more in the lessons to get more familiarised with it. If there is any data that I need to load or access, please let me know as soon as you can so that I can load it and have it ready before our session.
+
+With regards to tonight, our country is in stage 4 loadshedding, so I will be without power from 18h00-20h30. Meaning the earliest we can have a lesson is from 21h00 tonight which will not work for me.
+
+Can you recommend specific YouTube videos or other resources so that I can continue to build up knowledge with Power BI in the meantime?
 
 
+## Third session
 
+#### Date and time:
+20th of April 2022 2:00 pm to 4:00 pm
+
+### Topic:
+
+#### Extra resources
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Tfk3ae0qz3A?start=551" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+links:
+
+### Goal:
+Experiment and familirise with different data sources and format.
+
+### Session outcome:
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
